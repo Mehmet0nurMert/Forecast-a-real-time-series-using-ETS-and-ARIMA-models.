@@ -36,3 +36,24 @@ ETS Model: ETS(A,N,N)
 - Project Report (PDF)
 - R Script
 - Data files
+📌 Detailed Analysis & Visualizations
+
+For a comprehensive review of:
+
+ Statistical analysis results
+
+ STL decomposition visuals
+
+ ACF & PACF plots
+
+ KPSS and Ljung-Box test interpretations
+
+ ARIMA & ETS model comparisons
+
+ Forecast visualizations
+
+Please refer to the full project report:
+
+-> ISE457_Project_Group5.pdf
+
+The PDF contains detailed explanations, interpretation of results, and all visualizations generated during the analysis.
