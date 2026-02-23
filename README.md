@@ -36,9 +36,9 @@ ETS Model: ETS(A,N,N)
 - Project Report (PDF)
 - R Script
 - Data files
-📌 Detailed Analysis & Visualizations
 
-For a comprehensive review of:
+ ##  Detailed Analysis & Visualizations
+ For a comprehensive review of:
 
  Statistical analysis results
 
