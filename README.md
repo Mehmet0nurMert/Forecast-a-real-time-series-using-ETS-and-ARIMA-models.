@@ -27,10 +27,10 @@ ETS Model: ETS(A,N,N)
 
 ##  Group Members
 - Mehmet Onur Mert
-- Eren Kılıçal
-- Berrak Şevval Konca
-- Beliz Bilici
-- Ayşe Sezen Şeker
+- Eren
+- Berrak
+- Beliz
+- Sezen
 
 ##  Files
 - Project Report (PDF)
